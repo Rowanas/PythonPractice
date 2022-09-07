@@ -14,8 +14,7 @@ class Student:
 #    def customStudentDecoder(self, studentDict):
 #        return namedtuple("x",studentDict.keys())(studentDict.values())
 
-def studentes():
-    return Student("Julian", 23, ["Italian"])
+student = Student("Julian", 23, ["Italian"])
 
 # with open("./students.txt", "a") as studentslist:
 #     studentslist.write("\n")
@@ -26,16 +25,18 @@ def studentes():
 #     print(students)
 #     studentslist.close
 
-with open("./students.txt", "a") as studentslist:
-    studentslist.write(str(studentes.__dict__))
+with open("./students.txt", "w") as studentslist:
+    studentslist.write(str(student.__dict__))
     studentslist.write("\n")
+    studentslist.close
 
 with open("./students.txt", "r") as studentslist:
     studentslist.readlines()
     for line in studentslist:
         line = Student
         print(line)
-
+        studentslist.close
+#code above is reading an empty dict.
 
 
 student_list = []
