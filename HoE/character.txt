@@ -1,0 +1,101 @@
+
+Name: Likonikas
+Species: Garikon
+Subspecies: None
+Gender: Male
+Age: 39
+Class: Scout
+Occupation: Sailor
+Level: 1
+XP: 0
+
+-------
+Stats
+-------
+Strength: 17
+Speed: 15
+Stamina: 16/16
+Agility: 16
+Dexterity: 16
+Constitution: 18/18
+Perception: 18
+Intelligence: 16
+Mana: 0/0
+Mana Power: 0
+Charisma: 14
+Stealth: 17
+Luck: 13
+Armour Rating: 12
+
+-------
+Skills
+-------
+Species Skills:
+	Stone Skin
+	Four Arms
+	Rock Digestion
+	Dark Vision
+Occupation Skills:
+	
+Class Skills:
+	Ranged Weaponry
+		Small Bladed Weaponry
+Languages:
+	
+Racial Attacks:
+	Single Punch - d4 + 2 Bludgeoning DMG
+	Multi-Fist Pummel - d4 + 2 Bludgeoning DMG (x number of fists)
+Spells:
+	None
+
+-------
+Equipment
+-------
+Armour: 	
+Weaponry: 	
+
+-------
+Inventory
+-------
+
+
+-------
+Quests
+-------
+Informal: 
+Independant: 
+Prompt: 
+Guild: 
+Companion: 
+Personal: 
+
+-------
+Personality
+-------
+Personality Traits:
+	Positive: 
+	Negative: 
+
+Beliefs:
+	Faren
+	None
+	Kivena
+
+Ideals: 
+
+Personal Goal: 
+
+Alignment: Neutral Evil
+
+-------
+Story
+-------
+Background:
+	Hometown: 
+	Starting Point: 
+
+Family:
+
+
+History:
+

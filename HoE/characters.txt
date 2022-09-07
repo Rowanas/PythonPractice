@@ -1,0 +1,37 @@
+Name: Likonikas
+Species: Garikon
+Gender: Male
+Age: 39
+Class: Scout
+Occupation: Sailor
+Level: 1
+XP: 0
+
+Strength: 17
+Speed: 17
+Stamina: 18
+Agility: 13
+Dexterity: 19
+Constitution: 20
+Perception: 13
+Intelligence: 16
+Mana: 0
+Mana Power: 0
+Charisma: 18
+Stealth: 17
+Luck: 12
+Armour Rating: 12
+
+Species Skills:
+	Stone Skin
+	Four Arms
+	Rock Digestion
+	Dark Vision
+
+Class Skills: Ranged Weaponry
+    Small Bladed Weaponry
+
+Racial Attacks:Single Punch - d4 + 2 Bludgeoning DMG
+	Multi-Fist Pummel - d4 + 2 Bludgeoning DMG (x number of fists)
+	
+Spells:None
